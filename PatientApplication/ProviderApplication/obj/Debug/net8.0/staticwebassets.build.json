@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "A8KKWQOy1xPAZPwKXWnB2mHqnEUmACaI0TvxqqYebfo=",
+  "Source": "ProviderApplication",
+  "BasePath": "_content/ProviderApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

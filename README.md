@@ -1,1 +1,1 @@
-# YarpImplementation
+In this Project , I have build two microservice with name Patient Microservice and Provider Microservice. and build two Get API'S in both the microservice . and build one API Gateway using YARP, Through YARP I am calling the microservice API.

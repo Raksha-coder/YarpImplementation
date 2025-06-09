@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "luiCdfoR0Yg9NPzALq0dZsb3S496a+yYNXskoWtXS1Y=",
+  "Source": "PatientApplication",
+  "BasePath": "_content/PatientApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

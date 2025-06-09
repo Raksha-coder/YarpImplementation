@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9ZW2xRHRj6kzODGene0njt9sP4+d1RfxuQ2ooHclGqY=",
+  "Source": "YARPGateway",
+  "BasePath": "_content/YARPGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Z7rsu5Is4G+VpGIISLEgqIvv7XR1WmqEaHnMRuciQYA=",
+  "Source": "YARPWebApplication",
+  "BasePath": "_content/YARPWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
